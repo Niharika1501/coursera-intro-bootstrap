@@ -1,24 +1,16 @@
 {
-  "name": "git-test",
+  "name": "confusion",
   "version": "1.0.0",
-  "description": "this is a test dir to learn",
+  "description": "This is a website for Ristorante Con Fusion",
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite":"lite-server"
+    "lite": "lite-server"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Niharika1501/git-test.git"
-  },
-  "author": "Niharika Madke",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Niharika1501/git-test/issues"
-  },
-  "homepage": "https://github.com/Niharika1501/git-test#readme",
   "devDependencies": {
-    "lite-server": "^2.5.4"
+    "lite-server": "^2.3.0"
   }
 }
